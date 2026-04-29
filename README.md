@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm André Schaidhauer Luckmann</h1>
-<h3 align="center">Cloud Infrastructure Developer @ SAP | CS @ UFRGS</h3>
+<h3 align="center">Data Platform Engineer @ SAP HANA Cloud | CS @ UFRGS</h3>
 
 ---
 
