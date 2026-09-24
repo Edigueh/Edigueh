@@ -45,19 +45,6 @@ In parallel, I'm pursuing my **Computer Science degree at UFRGS** (Federal Unive
 
 ---
 
-### Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [jellyscope](https://github.com/Edigueh/jellyscope) | Visualization service for JWST jellyfish galaxy astronomical data | Python, Astropy |
-| [inf-vs-zombies](https://github.com/Edigueh/inf-vs-zombies) | Plants vs Zombies game clone with custom graphics | C, Raylib |
-| [PID_remote_control](https://github.com/Edigueh/PID_remote_control) | Embedded PID controller with remote interface | C, Makefile |
-| [UFRGS](https://github.com/Edigueh/UFRGS) | Full CS curriculum — data structures, algorithms, competitive programming | C, C++, Python |
-| [SoftStarterdosGuri](https://github.com/Edigueh/SoftStarterdosGuri) | Industrial soft starter for motor control | C, Embedded |
-| [Inversor_pwm_senoidal](https://github.com/Edigueh/Inversor_pwm_senoidal) | Sinusoidal PWM inverter | C, Embedded |
-
----
-
 ### Connect with Me
 
 <p align="left">
