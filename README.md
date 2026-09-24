@@ -5,9 +5,9 @@
 
 ### About Me
 
-I'm a Brazilian software developer working as a **Data Platform Engineer at SAP**, on the **HANA Cloud — Big Data Fabric Services (BDFS)** team. I build and maintain cloud-native infrastructure across AWS, GCP, and Azure, working daily with Kubernetes, Apache Spark, and large-scale CI/CD pipelines.
+I'm a Brazilian software developer working as a **Data Platform Engineer at SAP**, on the **HANA Cloud Big Data Fabric Services (BDFS)** team. I build and maintain cloud-native infrastructure across AWS, GCP, and Azure, working daily with Kubernetes, Apache Spark, and large-scale CI/CD pipelines.
 
-In parallel, I'm pursuing my **Computer Science degree at UFRGS** (Federal University of Rio Grande do Sul) while competing in programming contests and doing research together with astrophysics.
+In parallel, I'm pursuing my **Computer Science degree at UFRGS** (Universidade Federal do Rio Grande do Sul) while competing in programming contests and doing research together with astrophysics.
 
 ---
 
